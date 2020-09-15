@@ -1,0 +1,19 @@
+body{
+	padding: 0px;
+	margin:0px;
+	font-family: arial;
+	font-size: 12px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+ul{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+.wrapper{
+	width: 1000px;
+	margin:auto;
+}
